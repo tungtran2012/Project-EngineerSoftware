@@ -1,6 +1,6 @@
 # XÂY DỰNG TRANG MẠNG XÃ HỘI
 
-## * Gồm các tính năng cơ bản:
+## 1. Các tính năng cơ bản:
   - Tạo tài khoản người dùng (yêu cầu các thông tin người dùng cơ bản: email, tên đăng nhập, password) 
   - Đăng nhập tài khoản (sử dụng email và password)
   - Messenger - liên lạc giữa 2 tài khoản bằng tin nhắn text
@@ -9,7 +9,7 @@
      * Comment 
      * Like 
      * Share 
-## * Giải pháp công nghệ:
+## 2. Giải pháp công nghệ:
   - PHP
   - HTML, CSS
   - JavaScript
