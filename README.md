@@ -1,4 +1,4 @@
-## XÂY DỰNG TRANG MẠNG XÃ HỘI
+###### XÂY DỰNG TRANG MẠNG XÃ HỘI
 
 * Gồm các tính năng cơ bản:
   - Tạo tài khoản người dùng (yêu cầu các thông tin người dùng cơ bản: email, tên đăng nhập, password) 
