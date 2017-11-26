@@ -6,9 +6,9 @@
   - Messenger - liên lạc giữa 2 tài khoản bằng tin nhắn text
   - Kết bạn - xây dựng tính năng gợi ý kết bạn dựa vào mức độ tương thích thông tin của người dùng như: quê quán, trường học cấp 2,3, trường đại học, nơi làm việc, bạn bè.  
   - Cập nhật trạng thái dưới dạng text (có thể phát triển thêm để đăng ảnh, emoji hay tâm trạng) và thêm một số tính năng như:
-    + * Comment *
-    + * Like *
-    + * Share *
+     * Comment *
+     * Like *
+     * Share *
 * Giải pháp công nghệ:
   - PHP
   - HTML, CSS
