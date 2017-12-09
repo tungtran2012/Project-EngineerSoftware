@@ -14,4 +14,4 @@
   - HTML, CSS
   - JavaScript
   - Octave
-  - Cơ sở dữ liệu Neo4j
+  - Cơ sở dữ liệu Mongodb
